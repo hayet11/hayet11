@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZFkfEcgBREFZC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hayet11&label=Profile%20views&color=0e75b6&style=flat" alt="hayet11" /> </p>
 
-- 🌱 I’m currently learning **Angular **
+- 🌱 I’m currently learning **DJANGO**
 
 - 👀 I’m interested in **multuple programing language such as java, js, html , css , python and more**
 
